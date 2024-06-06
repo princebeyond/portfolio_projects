@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.hero {
+    padding: 50px;
+    text-align: center;
+}
+
+.hero h2 {
+    margin: 0 0 20px;
+}
+
+.hero p {
+    font-size: 18px;
+}
+
+.cta {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.cta:hover {
+    background-color: #0056b3;
+}
+
+.features {
+    padding: 50px;
+}
+
+footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
